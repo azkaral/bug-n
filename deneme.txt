@@ -2,3 +2,4 @@
 2.işlem
 3.işlem
 1.dal
+2.dal
